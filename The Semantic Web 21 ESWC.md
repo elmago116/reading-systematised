@@ -1,0 +1,20 @@
+---
+author:
+  - Albert Meroño Peñuela
+  - Anastasia Dimou
+  - Raphaël Troncy
+  - Olaf Hartig
+  - Maribel Acosta
+  - Mehwish Alam
+  - Heiko Paulheim
+  - Pasquale Lisena
+tags:
+  - Tech/SemanticWeb
+  - Tech/SemanticWeb/KG
+year: "2024"
+ISBN: 978-3-031-60634-2
+Type: Edited Book
+pdfORepub: "[[The Semantic Web 21st International Conference, ESWC 2024.pdf]]"
+modified: 2026-09-07
+---
+![[The Semantic Web 21st International Conference, ESWC 2024.pdf]]

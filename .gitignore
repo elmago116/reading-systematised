@@ -1,0 +1,6 @@
+# Sync artifacts
+.DS_Store
+.cache/
+.trash/
+.obsidian/
+.stfolder*
