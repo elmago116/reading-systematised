@@ -4,7 +4,7 @@ type: Article
 base: clippings
 source: pdf
 tags:
-  - projects/UBXAT
+  - op/doc/projects/UBXAT
   - op/doc/peninsula
   - Tech/SemanticWeb/KG
   - Humanities/historicalMemory

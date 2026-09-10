@@ -8,7 +8,7 @@ source: https://arxiv.org/abs/2006.04948
 created: 2026-06-18
 description: Framed in positive terms, this report examines how technical AI research might be steered in a manner that is more attentive to humanity&#39;s long-term prospects for survival as a species. In negative terms, we ask what existential risks humanity might face from AI development in the next century, and by what principles contemporary technical research might be directed to address those risks.A k
 tags:
-  - clipping/pending-review
+  - op/pending-review
   - tech/Ai
   - themes/ethics
 pdfORepub: "[[AI Research Considerations for Human Existential Safety (ARCHES).pdf]]"

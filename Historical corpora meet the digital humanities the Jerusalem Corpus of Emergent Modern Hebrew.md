@@ -12,7 +12,7 @@ tags:
   - tech/AI
   - Humanities/culturalHeritage
   - op/acc/leer
-  - HerStory/historical_corpora
+  - Humanities/historical_corpora
   - Humanities/language
 pdfORepub: "[[Historical corpora meet the digital humanities the Jerusalem Corpus of Emergent Modern Hebrew.pdf]]"
 ---

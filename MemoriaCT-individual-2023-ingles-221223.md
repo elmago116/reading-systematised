@@ -6,7 +6,7 @@ base: clippings
 source: pdf
 tags:
   - op/doc/peninsula
-  - projects/UBXAT
+  - op/doc/projects/UBXAT
   - design/UCD
 ---
 

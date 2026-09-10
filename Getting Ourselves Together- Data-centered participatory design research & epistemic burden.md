@@ -14,7 +14,7 @@ tags:
   - humanities/EJ
   - themes/bias
   - op/acc/leer
-  - data
+  - themes/bias/data
 pdfORepub: "[[Getting Ourselves Together- Data-centered participatory design research & epistemic burden.pdf]]"
 ---
 [[Getting Ourselves Together Data-centered participatory design research &amp; epistemic burden.pdf]]

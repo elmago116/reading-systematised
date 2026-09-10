@@ -6,7 +6,7 @@ published:
 created: 2026-08-06
 description:
 tags:
-  - op/doc/repository
+  - op/doc/Repositorio
 pdfORepub: n/a
 ---
 ## simplify your research workflow

@@ -9,6 +9,7 @@ created: 2026-04-30
 description: ""
 tags:
   - op/acc/pending-review
+  - tech/Kos
 pdfORepub: "[[Information and Knowledge Organisation in Digital Humanities- Global Perspectives.sync-conflict-20260427-074442-LONMVRE.pdf]]"
 ---
 [[Information and Knowledge Organisation in Digital Humanities- Global Perspectives.sync-conflict-20260427-074442-LONMVRE.pdf]]

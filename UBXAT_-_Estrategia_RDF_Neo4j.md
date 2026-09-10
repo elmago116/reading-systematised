@@ -5,7 +5,7 @@ base: clippings
 source: pdf
 tags:
   - Tech/SemanticWeb
-  - projects/UBXAT
+  - op/doc/projects/UBXAT
   - op/doc/peninsula
   - Tech/SemanticWeb/KG/RDF
 ---

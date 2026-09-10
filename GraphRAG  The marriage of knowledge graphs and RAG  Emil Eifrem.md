@@ -7,7 +7,7 @@ published:
 created: 2024
 description:
 tags:
-  - Tech/Ai/RAG
+  - tech/Ai/RAG
   - op/doc/tool
   - Tech/SemanticWeb/KG
   - tech/Ai/LLM

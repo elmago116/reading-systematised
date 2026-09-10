@@ -9,7 +9,7 @@ created: 2026-05-05
 description: This work tackles the problem of building trustworthy AI for the automotive industry in a context in which generic guidelines have already been proposed yet their instantiation is far from straightforward. The following work presents a first iteration of a methodology for developing trustworthy AI in CCAM (Connected, Cooperative Autonomous Mobility) applications as a meet-in-the-middle approach in
 tags:
   - op/acc/pending-review
-  - tech/Ai/RAG-new
+  - tech/Ai/RAG
 pdfORepub: "[[Towards a Meet-in-the Middle Approach for Trustworthy AI for CCAM.pdf]]"
 ---
 [[Towards a Meet-in-the Middle Approach for Trustworthy AI for CCAM.pdf]]

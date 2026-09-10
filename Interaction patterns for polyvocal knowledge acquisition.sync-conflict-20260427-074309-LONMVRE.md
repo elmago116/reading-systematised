@@ -9,6 +9,7 @@ created: 2026-04-27
 description: ""
 tags:
   - op/acc/pending-review
+  - Tech/SemanticWeb/KG/polyvocality
 pdfORepub: "[[Interaction patterns for polyvocal knowledge acquisition.sync-conflict-20260427-074309-LONMVRE.pdf]]"
 ---
 ![[Interaction patterns for polyvocal knowledge acquisition.sync-conflict-20260427-074309-LONMVRE.pdf]]

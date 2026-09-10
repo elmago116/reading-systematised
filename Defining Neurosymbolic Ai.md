@@ -6,6 +6,7 @@ source: pdf
 tags:
   - Tech/NeSyAI
   - tech/Ai
+  - tech/symbolic_reasoning
 year: "2025"
 doi: https://doi.org/10.48550/arXiv.2507.11127
 author:

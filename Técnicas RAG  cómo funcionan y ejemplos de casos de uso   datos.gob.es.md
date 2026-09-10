@@ -9,7 +9,7 @@ description: Plataforma de datos abiertos del Gobierno de España
 tags:
   - op/doc/tool
   - tech/Ai/LLM
-  - tech/Ai/RAG-new
+  - tech/Ai/RAG
 DOI: Tech/RAG, op/repport
 Type: http://dx.doi.org/10.1590/2175-623668636
 ---

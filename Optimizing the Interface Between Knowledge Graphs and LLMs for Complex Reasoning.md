@@ -11,7 +11,7 @@ tags:
   - op/acc/pending-review
   - Tech/SemanticWeb/KG
   - tech/Ai/LLM
-  - tech/Ai/RAG-new
+  - tech/Ai/RAG
   - "#op/doc/similar"
 pdfORepub: "[[Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning.pdf]]"
 ---

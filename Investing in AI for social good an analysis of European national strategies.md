@@ -9,7 +9,7 @@ created: 2026-05-05
 description: AbstractArtificial Intelligence (AI) has become a driving force in modern research, industry and public administration and the European Union (EU) is embracing this technology with a view to creating societal, as well as economic, value. This effort has been shared by EU Member States which were all encouraged to develop their own national AI strategies outlining policies and investment levels. Th
 tags:
   - op/acc/pending-review
-  - tech/Ai/RAG-new
+  - tech/Ai/RAG
 pdfORepub: "[[Investing in AI for social good an analysis of European national strategies.pdf]]"
 ---
 [[Investing in AI for social good an analysis of European national strategies.pdf]]

@@ -8,12 +8,11 @@ source: ""
 description: ATR4CH methodology for LLM-based knowledge extraction from cultural heritage texts; case study on authenticity assessment debates.
 created: 2026-05-27
 tags:
-  - clipping/pending-review
   - Tech/SemanticWeb/KG
   - Tech/SemanticWeb/KG/ontology
   - tech/Ai/LLM
   - Humanities/culturalHeritage
-  - method/systematic-review
+  - research_method/systematicReview
 pdfORepub: "[[Knowledge graphs generation from cultural heritage texts- combining LLMs and ontological engineering for scholarly debates.pdf]]"
 ---
 [[Knowledge graphs generation from cultural heritage texts- combining LLMs and ontological engineering for scholarly debates.pdf]]

@@ -8,7 +8,7 @@ description: Memoria.cat és el portal de webs de l’Associació Memòria i His
 tags:
   - Humanities/historicalMemory
   - Humanities/digitalHumanities
-  - op/doc/repository
+  - op/doc/Repositorio
 Type: Webpage
 year:
 ---

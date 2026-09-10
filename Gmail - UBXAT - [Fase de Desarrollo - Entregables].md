@@ -5,7 +5,7 @@ base: clippings
 source: pdf
 tags:
   - tech/ai
-  - projects/UBXAT
+  - op/doc/projects/UBXAT
 pdfORepub: "[[Gmail - UBXAT - [Fase de Desarrollo - Entregables].pdf]]"
 modified: 2026-09-07
 ---
