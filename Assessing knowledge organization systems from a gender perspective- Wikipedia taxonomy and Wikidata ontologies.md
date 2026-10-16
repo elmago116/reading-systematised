@@ -2,7 +2,7 @@
 title: JD-11-2023-0230_proof 124..147
 author: ""
 year: "2024"
-Type: ""
+Type: Article
 DOI: ""
 source: ""
 created: 2026-05-12
@@ -15,6 +15,7 @@ tags:
   - themes/gender
   - themes/bias
 pdfORepub: "[[Assessing knowledge organization systems from a gender perspective- Wikipedia taxonomy and Wikidata ontologies.pdf]]"
+Notes: "[[Assessing knowledge organization systems from a gender perspective Wikipedia taxonomy - notes]]"
 ---
 [[Assessing knowledge organization systems from a gender perspective- Wikipedia taxonomy and Wikidata ontologies.pdf]]
 ## Full text (extracted from `Assessing knowledge organization systems from a gender perspective- Wikipedia taxonomy and Wikidata ontologies.pdf`)

@@ -5,7 +5,7 @@ title: |-
 author:
   - Núria Ferran-Ferrer
   - Miquel Centelles
-pdfORepub: "[[Why EDI Matters Equ(al)ity, Diversity and Inclusion in European Universities]]"
+pdfORepub: "[[Why EDI Matters Equ(al)ity, Diversity and Inclusion in European Universities1]]"
 tags:
   - humanities/EJ
   - Humanities/digitalHumanities

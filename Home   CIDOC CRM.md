@@ -18,7 +18,7 @@ tags:
   - Tech/SemanticWeb/model
   - Humanities/culturalHeritage
   - Tech/SemanticWeb/KG/ontology
-  - op/doc/guia
+  - op/doc/manual
   - Tech/SemanticWeb/model/cidocCrm
 apa_citation: Hercules Pimenta Santos, 2016
 ---

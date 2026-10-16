@@ -12,7 +12,8 @@ editor:
   - Vera Sokolova
   - Helena Wahlstrom Henriksson
 year: 2025
-pdfORepub: Why EDI Matters Equ(al)ity, Diversity and Inclusion in European Universities.pdf:docs/2PDF/Why EDI Matters Equ(al)ity, Diversity and Inclusion in European Universities.pdf
+pdfORepub: "[[Why EDI Matters Equ(al)ity, Diversity and Inclusion in European Universities.pdf]]"
+Type: Book
 ---
 ## Full text (extracted from `Why EDI Matters Equ(al)ity, Diversity and Inclusion in European Universities.pdf`)
 

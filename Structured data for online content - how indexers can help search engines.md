@@ -10,9 +10,8 @@ tags:
   - CCC/revisar
   - Tech/SemanticWeb
   - tech/metadata
-  - op/acc/revisar/fix
 DOI: https://doi.org/10.3828/indexer.2018.44
-Type: Article
+Type: enciclopedia article
 year: 2018
 pdfORepub: "[[Structured data for online content - how indexers can help search engines.pdf]]"
 ---

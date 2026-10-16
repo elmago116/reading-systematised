@@ -8,10 +8,10 @@ source: ""
 created: 2026-08-06
 description: ""
 tags:
-  - design/UX
   - design/UX/personas
   - themes/bias/stereotypes
   - tech/Ai
+  - design/UX/testing
 pdfORepub: "[[Marked Personas- Using Natural Language Prompts to Measure Stereotypes in Language Models.pdf]]"
 ---
 [[Marked Personas- Using Natural Language Prompts to Measure Stereotypes in Language Models.pdf]]

@@ -11,7 +11,7 @@ tags:
   - themes/scienceCommunication
   - design/participatory
   - op/acc/leer
-  - op/pending-review
+  - op/doc/projects/CPC4U
 pdfORepub: "[[The evolution of public understanding of science - discourse and comparative evidence.pdf]]"
 ---
 [[Conceptualizing value co-creation for service innovation in academic libraries.pdf]]

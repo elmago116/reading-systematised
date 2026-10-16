@@ -4,7 +4,7 @@ type: Article
 base: clippings
 source: pdf
 tags:
-  - op/doc/peninsula
+  - op/doc/projects/peninsula
   - op/doc/reporte
   - tech/NeSyAI
   - Tech/SemanticWeb/KG

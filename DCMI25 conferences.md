@@ -4,7 +4,7 @@ type: Report
 base: clippings
 source: pdf
 tags:
-  - op/activity/conference
+  - op/doc/event
   - Tech/SemanticWeb
   - LIS
   - op/doc/reporte

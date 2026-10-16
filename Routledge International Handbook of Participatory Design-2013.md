@@ -1,7 +1,7 @@
 ---
 title: Routledge International Handbook of Participatory Design
 author: Robertson, Toni.,Simonsen, Jesper.
-year: "2012"
+year: "2013"
 Type: Book
 DOI: 10.4324/9780203108543
 source: https://doi.org/10.4324/9780203108543

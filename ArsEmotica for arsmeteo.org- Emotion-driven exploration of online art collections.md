@@ -9,7 +9,6 @@ source: https://cdn.aaai.org/ocs/10396/10396-46117-1-PB.pdf
 tags:
   - op/doc/similar
   - themes/art
-  - op/acc/download
 manual: http://hdl.handle.net/2318/1521073 - Tech/SemanticWeb/KG/semantic - research_method/PLN - Tech/SemanticWeb/KG/linked_open_data
 apa_citation: Patti, V. et al., 2015
 Type: Article

@@ -1,7 +1,7 @@
 ---
 tags:
   - Tech/SemanticWeb
-  - op/activity/conference
+  - op/doc/event
   - tech/metadata
   - LIS
   - op/doc/event

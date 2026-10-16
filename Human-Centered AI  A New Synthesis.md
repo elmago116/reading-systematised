@@ -3,7 +3,7 @@ author:
   - Ben Shneiderman
 source: ACM
 type: book chapter
-title: Human-Centered AI_ A New Synthesis _ Human-Computer Interaction – INTERACT 2021
+title: Human-Centered AI - A New Synthesis
 last_enrichment_run: 2025-08-20
 base: clippings
 journal: Lecture Notes in Computer Science
@@ -15,32 +15,32 @@ updated: 2025-08-20
 tags:
   - HCI/HCAI
   - op/acc/download
-manual: NOT FOUND (title too generic for OpenAlex search) - HCI - tech/Ai
+manual:
 apa_citation: Shneiderman, B. 2021
 congress: INTERACT 2021
-pdfORepub: "[[Human centered AI.pdf]]"
+pdfORepub: "[[Human-Computer Interaction – INTERACT 2021.pdf]]"
 modified: 2026-09-07
 ---
 
 
-![[Human centered AI.pdf]]
+![[Human-Computer Interaction – INTERACT 2021.pdf]]
 ## Abstract
 
 Researchers, developers, business leaders, policy makers and others are expanding the technology-centered scope of Artificial Intelligence (AI) to include Human-Centered AI (HCAI) ways of thinking. This expansion from an algorithm-focused view to embrace a human-centered perspective, can shape the future of technology so as to better serve human needs. Educators, designers, software engineers, product managers, evaluators, and government agency staffers can build on AI-driven technologies to design products and services that make life better for the users. These human-centered products and services will enable people to better care for each other, build sustainable communities, and restore the environment.
 
-[[Human centered AI.pdf]]  
+[[Human-Computer Interaction – INTERACT 2021.pdf]]  
 
 Abstract. Researchers, developers, business leaders, policy makers and others are expanding the technology-centered scope of Artificial Intelligence (AI) to include Human-Centered AI (HCAI) ways of thinking. This expansion from an algorithm-focused view to embrace a human-centered perspective, can shape the future of technology so as to better serve human needs. Educators, designers, software engineers, product managers, evaluators, and government agency staffers can build on AI-driven technologies to design products and services that make life better for the users. These human-centered products and services will enable people to better care for each other, build sustainable communities, and restore the environment.
 
-> ([[Human centered AI.pdf#page=33&annotation=25400R|human centered AI, p.3]]) #op/doc/def 
+> ([[Human-Computer Interaction – INTERACT 2021.pdf#page=33&annotation=25400R|human centered AI, p.3]]) #op/doc/def 
 > The new synthesis values AI and gives equal attention to human users and other stakeholders by raising the prominence of user experience design and by measuring human performance. Researchers and developers for HCAI systems value meaningful human control, putting people ﬁrst by serving human values such as rights, justice, and dignity, thus supporting goals such as self-efﬁcacy, creativity, responsibility, and social connections
 
 
 #tech/Ai #tech/evaluation 
 
-![[Human centered AI.pdf#page=35&rect=39,317,415,619&color=yellow|human centered AI, p.5]]
+![[Human-Computer Interaction – INTERACT 2021.pdf#page=35&rect=39,317,415,619&color=yellow|human centered AI, p.5]]
 
-> ([[Human centered AI.pdf#page=37&selection=35,4,39,62&color=yellow|human centered AI, p.7]])
+> ([[Human-Computer Interaction – INTERACT 2021.pdf#page=37&selection=35,4,39,62&color=yellow|human centered AI, p.7]])
 > Shneiderman, B.: Design lessons from AI’s two grand goals: human emulation and useful applications. IEEE Trans. Technol. Soc. 1, 2 (2020). https://ieeexplore.ieee.org/document/908 8114
 > #op/acc/buscar 
 

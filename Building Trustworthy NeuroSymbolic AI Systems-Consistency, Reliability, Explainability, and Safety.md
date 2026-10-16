@@ -11,7 +11,7 @@ tags:
   - tech/NeSyAI
   - tech/evaluation
   - Tech/AI
-  - tech/NeSyAI
+  - Tech/SemanticWeb/KG/evaluation
 pdfORepub: "[[Building Trustworthy NeuroSymbolic AI Systems-Consistency, Reliability, Explainability, and Safety.pdf]]"
 author: "[[Manas Gaur]],[[Amit Sheth]]"
 ---

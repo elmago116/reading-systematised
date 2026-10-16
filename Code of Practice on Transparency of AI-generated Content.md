@@ -7,7 +7,7 @@ published:
 created: 2026-09-07
 description: This code of practice supports compliance with the AI Act transparency obligations related to marking and labelling of AI-generated content.
 tags:
-  - op/doc/guia
+  - op/doc/manual
   - tech/Ai
   - themes/ethics/norms
   - R/Europe

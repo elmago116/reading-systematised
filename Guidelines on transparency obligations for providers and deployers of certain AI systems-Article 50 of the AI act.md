@@ -9,7 +9,7 @@ description: These guidelines help providers and deployers of AI systems and com
 tags:
   - tech/Ai
   - themes/ethics/norms
-  - op/doc/guia
+  - op/doc/manual
 Type: Guide
 ---
 The guidelines clarify these obligations, providing legal certainty about the scope and complementing the [Code of Practice on Transparency of AI-generated Content](https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content). The guidelines were developed with input provided by Member States, the AI Board and other stakeholders through a [public consultation](<https://with regard to the obligations for marking and labelling of AI-generated content>).

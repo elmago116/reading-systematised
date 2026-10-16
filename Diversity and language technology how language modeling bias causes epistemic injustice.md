@@ -17,6 +17,6 @@ tags:
   - Humanities/language
 pdfORepub: "[[Diversity and language technology how language modeling bias causes epistemic injustice.pdf]]"
 ---
-[[Diversity and language technology how language modeling bias causes epistemic injustice.pdf]]
+
 
 > **Abstract:** AbstractIt is well known that AI-based language technology—large language models, machine translation systems, multilingual dictionaries, and corpora—is currently limited to three percent of the world’s most widely spoken, financially and politically backed languages. In response, recent efforts have sought to address the “digital language divide” by extending the reach of large language models to

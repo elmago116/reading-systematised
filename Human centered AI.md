@@ -13,10 +13,10 @@ tags:
   - design/UCD
   - themes/ethics
   - op/acc/pending-review
-pdfORepub: "[[Human centered AI.pdf]]"
+pdfORepub: "[[Human-Computer Interaction – INTERACT 2021.pdf]]"
 ---
 
-[[Human centered AI.pdf]]
+[[Human-Computer Interaction – INTERACT 2021.pdf]]
 ## Full text (extracted from `Human centered AI.pdf`)
 
 *Source:* `2PDF/Human centered AI.pdf`  
@@ -29825,7 +29825,7 @@ spec
 
 _Source file:_ `Human-centered-AI.md`
 
-[[Human centered AI.pdf]]
+[[Human-Computer Interaction – INTERACT 2021.pdf]]
 ## Full text (extracted from `Human centered AI.pdf`)
 
 *Source:* `2PDF/Human centered AI.pdf`  

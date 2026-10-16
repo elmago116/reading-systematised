@@ -5,7 +5,7 @@ base: clippings
 source: pdf
 tags:
   - op/doc/projects/UBXAT
-  - op/doc/peninsula
+  - op/doc/projects/peninsula
   - Tech/SemanticWeb/KG
   - Humanities/historicalMemory
 ---

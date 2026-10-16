@@ -20,7 +20,6 @@ tags:
   - design/designHeuristics
   - design/UX
   - research_method
-  - op/acc/download
 apa_citation: Ana Cadavid & Jorge Maya, 2024
 pdfORepub: "[[Aesthetic heuristics for design cognitive and sociocultural determinants.pdf]]"
 ---

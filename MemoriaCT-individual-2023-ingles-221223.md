@@ -5,7 +5,7 @@ type: Article
 base: clippings
 source: pdf
 tags:
-  - op/doc/peninsula
+  - op/doc/projects/peninsula
   - op/doc/projects/UBXAT
   - design/UCD
 ---

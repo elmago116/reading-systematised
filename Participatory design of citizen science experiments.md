@@ -3,7 +3,6 @@ tags:
   - themes/citizenScience
   - research_method/survey
   - design/participatory
-  - op/acc/revisar/fix
 author:
   - Ferran-Ferrer, Núria
   - Enriq Senabre

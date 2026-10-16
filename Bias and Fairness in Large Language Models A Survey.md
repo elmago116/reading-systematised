@@ -23,6 +23,8 @@ modified: 2026-09-07
 > ([[Bias and Fairness in Large Language Models A Survey.pdf#page=4&selection=27,0,43,27|Bias and Fairness in Large Language Models A Survey, p.4]])
 > pre-processing (modifying model inputs), in-training (modifying the optimization process), intra-processing (modifying inference behavior), and post-processing (modifying model outputs). 
 
+![[Bias and Fairness in Large Language Models A Survey.pdf#page=7&rect=40,200,449,650|Bias and Fairness in Large Language Models A Survey, p.7]]
+
 
 
 ![[Bias and Fairness in Large Language Models A Survey.pdf]]

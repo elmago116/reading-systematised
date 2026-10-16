@@ -1,17 +1,19 @@
 ---
-title: JD-11-2023-0230_proof 124..147
-author: ""
+title: "Assessing knowledge organization systems from a gender perspective: Wikipedia taxonomy and Wikidata ontologies"
+author: Miquel Centelles, Nuria Ferran-Ferrer
 year: "2024"
-Type: ""
+Type:
 DOI: ""
 source: ""
 created: 2026-04-29
 description: ""
 tags:
   - op/acc/pending-review
-pdfORepub: "[[Assessing knowledge organization systems from a gender perspective Wikipedia taxonomy.pdf]]"
+  - tech/Kos
+  - themes/gender
+pdfORepub: "[[Assessing knowledge organization systems from a gender perspective - Wikipedia taxonomy and Wikidata ontologies.pdf]]"
 ---
-[[Assessing knowledge organization systems from a gender perspective Wikipedia taxonomy.pdf]]
+[[Assessing knowledge organization systems from a gender perspective - Wikipedia taxonomy and Wikidata ontologies.pdf]]
 ## Full text (extracted from `Assessing knowledge organization systems from a gender perspective Wikipedia taxonomy.pdf`)
 
 *Source:* `2PDF/Assessing knowledge organization systems from a gender perspective Wikipedia taxonomy.pdf`  

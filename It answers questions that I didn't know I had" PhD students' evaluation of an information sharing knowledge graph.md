@@ -6,6 +6,7 @@ tags:
   - Tech/SemanticWeb/KG
   - op/level/PhD
   - op/doc/similar
+  - Tech/SemanticWeb/KG/evaluation
 pdfORepub: "[[It answers questions that I didn’t know I had” PhD students’ evaluation of an information sharing knowledge graph.pdf]]"
 author: ""
 apa_citation: Gardasevic & Lamba, 2024

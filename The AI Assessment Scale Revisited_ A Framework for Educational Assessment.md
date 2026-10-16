@@ -9,9 +9,9 @@ tags:
   - research_method/ai
   - tech/Ai
   - themes/education
-  - op/acc/revisar/fix
+  - research_method/tool
 DOI: https://doi.org/10.48550/arXiv.2412.09029
-Type:
+Type: Article
 year: "2024"
 pdfORepub: "[[The AI Assessment Scale Revisited_ A Framework for Educational Assessment.pdf]]"
 modified: 2026-09-08

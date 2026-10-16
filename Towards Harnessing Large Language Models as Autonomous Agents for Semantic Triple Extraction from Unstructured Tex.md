@@ -9,7 +9,7 @@ tags:
   - op/suggested/tutors
   - tech/Ai/LLM
   - Tech/SemanticWeb/KG
-  - op/acc/revisar/fix
+  - tech/Ai/agents
 year: "2024"
 author:
   - Ananya Ananya

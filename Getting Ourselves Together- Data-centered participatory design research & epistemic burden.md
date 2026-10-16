@@ -17,7 +17,7 @@ tags:
   - themes/bias/data
 pdfORepub: "[[Getting Ourselves Together- Data-centered participatory design research & epistemic burden.pdf]]"
 ---
-[[Getting Ourselves Together Data-centered participatory design research &amp; epistemic burden.pdf]]
+
 ## Full text (extracted from `Getting Ourselves Together- Data-centered participatory design research & epistemic burden.pdf`)
 
 *Source:* `2PDF/Getting Ourselves Together- Data-centered participatory design research & epistemic burden.pdf`  

@@ -10,9 +10,9 @@ description: ""
 tags:
   - op/acc/pending-review
   - tech/Ai/LLM
-pdfORepub: "[[Generative Watermarking for LLMs Sun 2024.pdf]]"
+pdfORepub: "[[zkLLM - Zero Knowledge Proofs for Large Language Models.pdf]]"
 ---
-[[Generative Watermarking for LLMs Sun 2024.pdf]]
+[[zkLLM - Zero Knowledge Proofs for Large Language Models.pdf]]
 
 ## Full text (extracted from `Generative Watermarking for LLMs Sun 2024.pdf`)
 

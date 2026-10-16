@@ -13,6 +13,7 @@ tags:
   - design/UX
   - tech/semantic-web
   - humanities/digitalHumanities
+  - Tech/SemanticWeb/KG/ontology
 pdfORepub: "[[From Ontology Design to User Experience. A methodology to design interfaces for information seeking purposes.pdf]]"
 ---
 [[From Ontology Design to User Experience. A methodology to design interfaces for information seeking purposes.pdf]]

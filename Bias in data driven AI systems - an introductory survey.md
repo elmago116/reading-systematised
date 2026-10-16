@@ -14,6 +14,7 @@ tags:
   - tech/Ai
   - themes/bias/data
 pdfORepub: "[[Bias in data driven AI systems - an introductory survey.pdf]]"
+Notes: "[[Bias in data driven AI systems - an introductory survey_note.pdf]]"
 ---
 [[Bias in data driven AI systems - an introductory survey.pdf]]
 

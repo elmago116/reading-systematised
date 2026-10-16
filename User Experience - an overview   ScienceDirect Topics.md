@@ -11,7 +11,7 @@ tags:
   - design/UX
   - research_method/bibliometrics
   - research_method/ScopingReview
-  - op/activity/Aiinteraction
+  - op/activity/aiProcess
 year: "2019"
 Type: Article
 pdfORepub: "[[The UX Book Agile UX Design for a Quality User Experience]]"

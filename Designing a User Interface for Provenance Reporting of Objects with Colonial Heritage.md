@@ -1,5 +1,5 @@
 ---
-title: Final Designing a User Interface for Provenance Reporting of Objects with Colonial Heritage
+title: Designing a User Interface for Provenance Reporting of Objects with Colonial Heritage
 author:
   - Isabella Abelardo
 year: "2024"
@@ -14,8 +14,15 @@ tags:
   - Humanities/culturalHeritage
   - design/UX
   - humanities/EJ
+  - Tech/SemanticWeb/KG/polyvocality
+  - design/UX/user_interface
+  - op/acc/leer
+  - design/method
 pdfORepub: "[[Final_Designing_a_User_Interface_for_Provenance_Reporting_of_Objects_with_Colonial_Heritage.pdf]]"
 ---
+
+
+![[Final_Designing_a_User_Interface_for_Provenance_Reporting_of_Objects_with_Colonial_Heritage.pdf#page=6&rect=58,512,558,725|Final_Designing_a_User_Interface_for_Provenance_Reporting_of_Objects_with_Colonial_Heritage, p.4]]
 [[Final_Designing_a_User_Interface_for_Provenance_Reporting_of_Objects_with_Colonial_Heritage.pdf]]
 ## Full text (extracted from `Final_Designing_a_User_Interface_for_Provenance_Reporting_of_Objects_with_Colonial_Heritage.pdf`)
 

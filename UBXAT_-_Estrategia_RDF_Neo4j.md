@@ -6,7 +6,7 @@ source: pdf
 tags:
   - Tech/SemanticWeb
   - op/doc/projects/UBXAT
-  - op/doc/peninsula
+  - op/doc/projects/peninsula
   - Tech/SemanticWeb/KG/RDF
 ---
 

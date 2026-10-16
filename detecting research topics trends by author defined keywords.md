@@ -26,6 +26,7 @@ tags:
 apa_citation: Wei Lu et al., 2021
 pdfORepub: "[[detecting research topics trends by author defined keywords.pdf]]"
 modified: 2026-09-07
+Notes: "[[detecting research topics trends by author defined keywords.mdannotation-2025-07-29_11_37_12]]"
 ---
 [[Clippings/PDF/Detecting research topic trends by author-defined keyword frequency.pdf]]
 

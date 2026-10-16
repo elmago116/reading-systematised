@@ -13,7 +13,7 @@ tags:
   - themes/bias
   - design/participatory
   - design/designHeuristics
-  - op/aiProcess
+  - op/activity/aiProcess
 pdfORepub: "[[2PDF/How to Design AI for Social Good Seven Essential Factors.pdf|How to Design AI for Social Good Seven Essential Factors]]"
 ---
 [[How to Design AI for Social Good Seven Essential Factors.pdf]]

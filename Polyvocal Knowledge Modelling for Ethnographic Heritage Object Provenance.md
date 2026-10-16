@@ -14,10 +14,9 @@ tags:
   - Tech/SemanticWeb/KG/polyvocality
   - op/acc/leer
   - research_method/interviews
-  - op/acc/revisar/fix
 DOI: doi:10.3233/SSW230010
 year: "2023"
-Type: http://dx.doi.org/10.1590/2175-623668636
+Type: Article
 pdfORepub: "[[Polyvocal Knowledge Modelling for Ethnographic Heritage Object Provenance.pdf]]"
 modified: 2026-09-07
 ---

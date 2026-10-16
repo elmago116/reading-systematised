@@ -1,8 +1,8 @@
 ---
 title: 0321624637.pdf
-author: ""
-year: "2010"
-Type: ""
+author: Jesse James Garret
+year: "2011"
+Type: Book
 DOI: ""
 source: ""
 created: 2026-04-30
@@ -14,6 +14,7 @@ tags:
   - design/IA
   - design/method
 pdfORepub: "[[The Elements of User Experience_ User-Centered Design for -- written and illustrated by Jesse James Garret.pdf]]"
+ISBN: "ISBN 13: 978-0-321-68368-7"
 ---
 [[The Elements of User Experience_ User-Centered Design for -- written and illustrated by Jesse James Garret.pdf]]
 ## Full text (extracted from `The Elements of User Experience_ User-Centered Design for -- written and illustrated by Jesse James Garret.pdf`)

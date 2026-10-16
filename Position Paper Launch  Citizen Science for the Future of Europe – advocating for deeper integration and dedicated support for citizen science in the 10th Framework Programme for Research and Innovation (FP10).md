@@ -9,7 +9,7 @@ tags:
   - themes/citizenScience
   - R/Europe
   - research_method
-  - op/doc/guia
+  - op/doc/manual
 DOI:
 Type: Article
 pdfORepub: n/a
